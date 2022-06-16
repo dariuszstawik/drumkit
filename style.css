@@ -1,0 +1,11 @@
+.main {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box; 
+}
+
+.drum {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
